@@ -1,4 +1,8 @@
-# Django AllAuth Project Template
+# Django Facial Recognition Access Control Project
+
+A Django learning project for 
+
+## Django AllAuth Project Template
 
 A robust Django starter project with django-allauth integration, ready for rapid development.
 
