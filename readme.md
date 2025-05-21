@@ -1,6 +1,8 @@
 # Django Facial Recognition Access Control Project
 
-A Django learning project for 
+A Django learning project for integrating facial recognition technology
+
+This project uses https://github.com/sjwilhelms/django-all-auth.git:
 
 ## Django AllAuth Project Template
 
@@ -20,7 +22,7 @@ A robust Django starter project with django-allauth integration, ready for rapid
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/django-all-auth.git your-project-name
+git clone https://github.com/sjwilhelms/django-all-auth.git your-project-name
 cd your-project-name
 ```
 
