@@ -27,6 +27,7 @@ INSTALLED_APPS = [
     'allauth.socialaccount',
     
     # Your apps
+    'image_processing',
 ]
 
 MIDDLEWARE = [
